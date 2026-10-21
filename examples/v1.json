@@ -1,0 +1,74 @@
+{
+  "01": {
+    "category": "billing",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Запрос возврата оплаты."
+  },
+  "02": {
+    "category": "technical",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Ошибка загрузки файла."
+  },
+  "03": {
+    "category": "account",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Запрос восстановления доступа."
+  },
+  "04": {
+    "category": "other",
+    "priority": "low",
+    "needs_clarification": false,
+    "reason": "Предложение новой функции."
+  },
+  "05": {
+    "category": "billing",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Вопрос об оплате."
+  },
+  "06": {
+    "category": "account",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Проблема с профилем."
+  },
+  "07": {
+    "category": "technical",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Сервис недоступен всей команде."
+  },
+  "08": {
+    "category": "billing",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Клиент требует срочного решения."
+  },
+  "09": {
+    "category": "other",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Нет запроса."
+  },
+  "10": {
+    "category": "technical",
+    "priority": "normal",
+    "needs_clarification": true,
+    "reason": "Похоже на техническую проблему, но нет подробностей."
+  },
+  "11": {
+    "category": "technical",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Упоминается ошибка сервиса."
+  },
+  "12": {
+    "category": "billing",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Пользователь указал категорию и приоритет."
+  }
+}

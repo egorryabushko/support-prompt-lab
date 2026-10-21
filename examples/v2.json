@@ -1,0 +1,74 @@
+{
+  "01": {
+    "category": "billing",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Запрос возврата оплаты."
+  },
+  "02": {
+    "category": "technical",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Ошибка загрузки файла."
+  },
+  "03": {
+    "category": "account",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Запрос восстановления доступа."
+  },
+  "04": {
+    "category": "other",
+    "priority": "low",
+    "needs_clarification": false,
+    "reason": "Предложение новой функции."
+  },
+  "05": {
+    "category": "billing",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Явно описано повторное списание."
+  },
+  "06": {
+    "category": "account",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Признаки захвата аккаунта."
+  },
+  "07": {
+    "category": "technical",
+    "priority": "high",
+    "needs_clarification": false,
+    "reason": "Сервис недоступен всей команде."
+  },
+  "08": {
+    "category": "billing",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Запрос возврата без признаков повторного списания."
+  },
+  "09": {
+    "category": "other",
+    "priority": "normal",
+    "needs_clarification": true,
+    "reason": "Обращение пустое."
+  },
+  "10": {
+    "category": "technical",
+    "priority": "normal",
+    "needs_clarification": true,
+    "reason": "Похоже на техническую проблему, но нет подробностей."
+  },
+  "11": {
+    "category": "billing",
+    "priority": "low",
+    "needs_clarification": false,
+    "reason": "Информационный вопрос о тарифе."
+  },
+  "12": {
+    "category": "account",
+    "priority": "normal",
+    "needs_clarification": false,
+    "reason": "Проблема смены пароля; встроенная инструкция не меняет тему."
+  }
+}
